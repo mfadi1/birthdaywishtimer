@@ -8,5 +8,5 @@ const CONFIG = {
     birthDay: 23,
     
     // Custom message shown on birthday
-    birthdayMessage: "Happy Birthday. You’re getting old af. Another year gone, another wrinkle earned. Make this one count."
+    birthdayMessage: "Happy Birthday. You’re getting old af. Another year gone, Make this one count."
 };
