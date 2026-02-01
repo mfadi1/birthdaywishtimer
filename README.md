@@ -2,6 +2,8 @@
 
 Minimalistic birthday countdown website.
 
+![Mobile](https://github.com/user-attachments/assets/608808f3-b9d7-44b3-820e-723f3967b3f2)
+
 ## Setup
 
 1. Edit `config.js` with your details
